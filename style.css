@@ -1,0 +1,73 @@
+body {
+    background: #3a6186;
+    color: #ffffff;
+    font-family: Arial;
+}
+
+h1 {
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.maindiv {
+    background: #000;
+    color: #fff;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+
+
+}
+
+.contents {
+    margin-left: 80px;
+}
+
+table td {
+    padding-bottom: 10px;
+}
+
+input,
+select {
+    outline: none;
+}
+
+select {
+    cursor: pointer;
+}
+
+#result {
+    margin-bottom: 10px;
+    background-image: linear-gradient(45deg, #4568dc, #b06ab3);
+    color: white;
+    height: 40px;
+    width: 325px;
+    font-weight: 600;
+    border-top-left-radius: 25px 25px;
+    border-bottom-right-radius: 25px 25px;
+    outline: none;
+    cursor: pointer;
+}
+
+#principal {
+    height: 25px;
+    width: 190px;
+}
+
+#years {
+    height: 35px;
+    width: 200px;
+}
+
+
+.labels {
+    width: 120px;
+}
+
+.highlight {
+    background-color: slategrey;
+}
