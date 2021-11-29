@@ -69,5 +69,6 @@ select {
 }
 
 .highlight {
-    background-color: slategrey;
+    background-color: yellow;
+    color: #000;;
 }
